@@ -3,4 +3,4 @@
 * Lectures
 * Pre Class Assignment
 * Projects
-* exam
+* exam,,
